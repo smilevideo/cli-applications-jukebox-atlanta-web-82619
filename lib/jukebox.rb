@@ -31,7 +31,7 @@ def exit_jukebox
 end
 
 def run(songs)
-  while true
+  while nil
     puts "Please enter a command:"
     command = gets.strip
     
